@@ -2,11 +2,11 @@
 **Cybersecurity Student | Network & Red Teaming Enthusiast**
 
 ---
-
+https://i.pinimg.com/736x/6f/8a/c6/6f8ac66f02f13aac9e6593e859c06805.jpg
 ### 🛠 Tech Stack & Specializations
 
 #### 🧪 Offensive Security | *Futaba Sakura Style*
-<img src="https://media.tenor.com/S_vLz98L9v0AAAAC/futaba-sakura-persona5.gif" width="100%" height="160px" style="object-fit: cover; object-position: center; border-radius: 10px; display: block; margin-bottom: 10px;" />
+<img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fes.pinterest.com%2Fpin%2F579768152067927111%2F&ved=0CBYQjRxqFwoTCIDD_KnIlZQDFQAAAAAdAAAAABAG&opi=89978449" width="100%" height="160px" style="object-fit: cover; object-position: center; border-radius: 10px; display: block; margin-bottom: 10px;" />
 
 > *"Iniciando hackeamento... todos os dados agora são meus."*
 
@@ -15,24 +15,14 @@
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 #### 🌐 Networking & Infrastructure | *Satoru Gojo Style*
-<img src="https://www.gifcen.com/wp-content/uploads/2022/04/gojo-gif.gif" width="100%" height="160px" style="object-fit: cover; object-position: top; border-radius: 10px; display: block; margin-bottom: 10px;" />
-
-> *"Dentro do meu domínio, eu controlo o fluxo da informação."*
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkpYyZx4lMrWcv6fCgMOEQlpiLiJhpvXXI8A&s" width="100%" height="160px" style="object-fit: cover; object-position: top; border-radius: 10px; display: block; margin-bottom: 10px;" />
 
 ![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![IOS](https://img.shields.io/badge/IOS_CLI-005E9D?style=for-the-badge&logo=cisco&logoColor=white)
 
-#### ⚔ Development & Automation | *9S (YoRHa) Style*
-<img src="https://media.tenor.com/uVk7HSinFlQAAAAC/9s-nier-automata.gif" width="100%" height="160px" style="object-fit: cover; object-position: center; border-radius: 10px; display: block; margin-bottom: 10px;" />
 
-> *"Analisando padrões e desconstruindo protocolos."*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
----
 
 ### 📊 Training & Certifications
 *   **Targeting:** `CCNA` | `CPTS` | `CEH`
