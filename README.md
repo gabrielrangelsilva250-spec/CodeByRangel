@@ -7,7 +7,7 @@
 
 #### 🧪 Offensive Security | *Futaba Sakura Style*
 <p align="center">
-  <img src="https://i.pinimg.com/736x/6f/8a/c6/6f8ac66f02f13aac9e6593e859c06805.jpg" style="width:100%; max-height:200px; object-fit:cover; object-position:center; border-radius:10px;" alt="Futaba" />
+  <img src="https://i.pinimg.com/originals/68/ca/f1/68caf119a7be25f3d99b5647b19bc9a3.gif" style="width:100%; max-height:200px; object-fit:cover; object-position:center; border-radius:10px;" alt="Futaba" />
 </p>
 
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com)
@@ -18,7 +18,7 @@
 
 #### 🌐 Networking & Infrastructure | *Satoru Gojo Style*
 <p align="center">
-  <img src="https://i.pinimg.com/originals/68/ca/f1/68caf119a7be25f3d99b5647b19bc9a3.gif" style="width:100%; max-height:200px; object-fit:cover; object-position:top; border-radius:10px;" alt="Gojo" />
+  <img src="https://i.pinimg.com/originals/65/16/55/651655a0aba046e6e2493537e2d1f396.gif" style="width:100%; max-height:200px; object-fit:cover; object-position:top; border-radius:10px;" alt="Gojo" />
 </p>
 
 ![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
@@ -41,7 +41,9 @@
 ### 📊 Training & Certifications
 *   **Targeting:** `CCNA` | `CPTS` | `CEH`
 *   **Focus:** Red Teaming Operations & Network Architecture
-
+<p align="center">
+  <img src="https://i.gifer.com/MShf.gif" style="width:100%; max-height:200px; object-fit:cover; object-position:center; border-radius:10px;" alt="9S" />
+</p>
 ---
 
 ### 📫 Connect with me
