@@ -1,27 +1,18 @@
-# G. Rangel Silva (0xShinn)
+#0xShinn
 **Networking & Offensive Security Student | Specialized in Cisco Infrastructure & Red Teaming Operations**
 
 ---
 
 ### 🛠 Tech Stack & Specializations
 
-#### 🧪 Offensive Security
+#### 🧪 Offensive Security & Infrastructure
 <p align="center">
-  <img src="https://i.pinimg.com/736x/6f/8a/c6/6f8ac66f02f13aac9e6593e859c06805.jpg" style="width:100%; max-height:200px; object-fit:cover; object-position:center; border-radius:10px;" alt="Futaba Hacker" />
+  <img src="https://i.pinimg.com/originals/68/ca/f1/68caf119a7be25f3d99b5647b19bc9a3.gif" style="width:100%; max-height:200px; object-fit:cover; object-position:center; border-radius:10px;" alt="Networking & Security" />
 </p>
 
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xShinn)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-
----
-
-#### 🌐 Networking & Infrastructure
-<p align="center">
-  <img src="https://i.pinimg.com/originals/65/16/55/651655a0aba046e6e2493537e2d1f396.gif" style="width:100%; max-height:180px; object-fit:cover; object-position:center; border-radius:10px; margin-bottom: 8px;" />
-  <img src="https://www.gifcen.com/wp-content/uploads/2022/04/gojo-gif.gif" style="width:100%; max-height:180px; object-fit:cover; object-position:top; border-radius:10px;" />
-</p>
-
 ![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![IOS](https://img.shields.io/badge/IOS_CLI-005E9D?style=for-the-badge&logo=cisco&logoColor=white)
@@ -30,7 +21,7 @@
 
 #### ⚔ Development & Automation
 <p align="center">
-  <img src="https://media.tenor.com/uVk7HSinFlQAAAAC/9s-nier-automata.gif" style="width:100%; max-height:200px; object-fit:cover; object-position:center; border-radius:10px;" />
+  <img src="https://media.tenor.com/uVk7HSinFlQAAAAC/9s-nier-automata.gif" style="width:100%; max-height:200px; object-fit:cover; object-position:center; border-radius:10px;" alt="9S YoRHa" />
 </p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,13 +30,14 @@
 
 ---
 
-### 📊 Training & Certifications
+### 📊 Training & Certifications | *Elliot Alderson Style*
 <p align="center">
-  <img src="https://i.gifer.com/MShf.gif" style="width:100%; max-height:200px; object-fit:cover; object-position:center; border-radius:10px;" />
+  <img src="https://i.gifer.com/MShf.gif" style="width:100%; max-height:200px; object-fit:cover; object-position:center; border-radius:10px;" alt="Elliot Hacker" />
 </p>
 
-*   **Educação:** Tecnólogo em Segurança Cibernética.
+*   **Education:** Technologist in Cybersecurity (2025 - 2027).
 *   **Targeting:** `CCNA` | `CPTS` | `CEH` | `Linux Essentials`
+*   **Focus:** Red Teaming Operations & Network Architecture
 
 ---
 
