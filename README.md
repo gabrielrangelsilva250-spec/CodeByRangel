@@ -7,7 +7,7 @@
 
 #### 🧪 Offensive Security | *Futaba Sakura Style*
 <p align="center">
-  <img https://i.pinimg.com/736x/6f/8a/c6/6f8ac66f02f13aac9e6593e859c06805.jpg" style="width:100%; max-height:200px; object-fit:cover; object-position:center; border-radius:10px;" alt="Futaba" />
+  <img src="https://i.pinimg.com/736x/6f/8a/c6/6f8ac66f02f13aac9e6593e859c06805.jpg" style="width:100%; max-height:200px; object-fit:cover; object-position:center; border-radius:10px;" alt="Futaba" />
 </p>
 
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com)
@@ -16,10 +16,9 @@
 
 ---
 
-#### 🌐 Networking & Infrastructure | *Gojo & Matrix Style*
+#### 🌐 Networking & Infrastructure | *Satoru Gojo Style*
 <p align="center">
-  <img src="https://i.pinimg.com/originals/65/16/55/651655a0aba046e6e2493537e2d1f396.gif" style="width:100%; max-height:200px; object-fit:cover; object-position:center; border-radius:10px; margin-bottom: 10px;" alt="Matrix Networking" />
-  <img src="https://www.gifcen.com/wp-content/uploads/2022/04/gojo-gif.gif" style="width:100%; max-height:200px; object-fit:cover; object-position:top; border-radius:10px;" alt="Gojo Satoru" />
+  <img src="https://i.pinimg.com/originals/68/ca/f1/68caf119a7be25f3d99b5647b19bc9a3.gif" style="width:100%; max-height:200px; object-fit:cover; object-position:top; border-radius:10px;" alt="Gojo" />
 </p>
 
 ![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
@@ -30,7 +29,7 @@
 
 #### ⚔ Development & Automation | *9S (YoRHa) Style*
 <p align="center">
-  <img src="https://media.tenor.com/uVk7HSinFlQAAAAC/9s-nier-automata.gif" style="width:100%; max-height:200px; object-fit:cover; object-position:center; border-radius:10px;" alt="9S YoRHa" />
+  <img src="https://media.tenor.com/uVk7HSinFlQAAAAC/9s-nier-automata.gif" style="width:100%; max-height:200px; object-fit:cover; object-position:center; border-radius:10px;" alt="9S" />
 </p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,13 +38,8 @@
 
 ---
 
-### 📊 Training & Certifications | *Elliot Alderson Style*
-<p align="center">
-  <img src="https://i.gifer.com/MShf.gif" style="width:100%; max-height:200px; object-fit:cover; object-position:center; border-radius:10px;" alt="Elliot Hacker" />
-</p>
-
-*   **Educação:** Tecnólogo em Segurança Cibernética.
-*   **Targeting:** `CCNA` | `CPTS` | `CEH` | `Linux Essentials`
+### 📊 Training & Certifications
+*   **Targeting:** `CCNA` | `CPTS` | `CEH`
 *   **Focus:** Red Teaming Operations & Network Architecture
 
 ---
