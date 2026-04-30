@@ -20,6 +20,7 @@
 <p align="center">
   <img src="https://i.pinimg.com/736x/6f/8a/c6/6f8ac66f02f13aac9e6593e859c06805.jpg" style="width:100%; max-height:300px; object-fit:cover; object-position:center; border-radius:10px;" alt="Futaba Sakura Hacker" />
 </p>
+
 ![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![IOS](https://img.shields.io/badge/IOS_CLI-005E9D?style=for-the-badge&logo=cisco&logoColor=white)
