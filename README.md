@@ -6,7 +6,7 @@
 ### 🛠 Tech Stack & Specializations
 
 #### 🧪 Offensive Security | *Futaba Sakura Style*
-<img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fpersona-5-futaba-icon-gif%2F942056094471%2F&ved=0CBUQjRxqFwoTCOiewY3HlZQDFQAAAAAdAAAAABAf&opi=89978449" width="100%" height="150px" style="object-fit: cover; border-radius: 10px;" />
+<img src="https://media.tenor.com/S_vLz98L9v0AAAAC/futaba-sakura-persona5.gif" width="100%" height="160px" style="object-fit: cover; object-position: center; border-radius: 10px; display: block; margin-bottom: 10px;" />
 
 > *"Iniciando hackeamento... todos os dados agora são meus."*
 
@@ -15,7 +15,7 @@
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 #### 🌐 Networking & Infrastructure | *Satoru Gojo Style*
-<img src="https://www.gifcen.com/wp-content/uploads/2022/04/gojo-gif.gif" width="100%" height="150px" style="object-fit: cover; border-radius: 10px;" />
+<img src="https://www.gifcen.com/wp-content/uploads/2022/04/gojo-gif.gif" width="100%" height="160px" style="object-fit: cover; object-position: top; border-radius: 10px; display: block; margin-bottom: 10px;" />
 
 > *"Dentro do meu domínio, eu controlo o fluxo da informação."*
 
@@ -24,7 +24,7 @@
 ![IOS](https://img.shields.io/badge/IOS_CLI-005E9D?style=for-the-badge&logo=cisco&logoColor=white)
 
 #### ⚔ Development & Automation | *9S (YoRHa) Style*
-<img src="https://media.tenor.com/uVk7HSinFlQAAAAC/9s-nier-automata.gif" width="100%" height="150px" style="object-fit: cover; border-radius: 10px;" />
+<img src="https://media.tenor.com/uVk7HSinFlQAAAAC/9s-nier-automata.gif" width="100%" height="160px" style="object-fit: cover; object-position: center; border-radius: 10px; display: block; margin-bottom: 10px;" />
 
 > *"Analisando padrões e desconstruindo protocolos."*
 
@@ -41,8 +41,4 @@
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rangel-a65bab2b0)
-
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rangel-a65bab2b0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rangel-a65bab2b0)
