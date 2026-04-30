@@ -18,7 +18,7 @@
 
 #### 🌐 Networking & Infrastructure | *Satoru Gojo Style*
 <p align="center">
-  <img src="https://i.pinimg.com/736x/6f/8a/c6/6f8ac66f02f13aac9e6593e859c06805.jpg" style="width:100%; max-height:200px; object-fit:cover; object-position:top; border-radius:100px;" alt="Linux" />
+  <img src="https://i.pinimg.com/736x/6f/8a/c6/6f8ac66f02f13aac9e6593e859c06805.jpg" style="width:10%; max-height:20px; object-fit:cover; object-position:top; border-radius:10px;" alt="Linux" />
 </p>
 
 ![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
