@@ -7,7 +7,7 @@
 
 #### 🧪 Offensive Security | *Futaba Sakura Style*
 <p align="center">
-  <img src="https://media.tenor.com/S_vLz98L9v0AAAAC/futaba-sakura-persona5.gif" style="width:100%; max-height:250px; object-fit:cover; object-position:center; border-radius:10px;" alt="Futaba Sakura" />
+  <img src="https://i.pinimg.com/736x/6f/8a/c6/6f8ac66f02f13aac9e6593e859c06805.jpg" style="width:100%; max-height:200px; object-fit:cover; object-position:center; border-radius:10px;" alt="Futaba Hacker" />
 </p>
 
 > *"Iniciando hackeamento... todos os dados agora são meus."*
@@ -20,7 +20,7 @@
 
 #### 🌐 Networking & Infrastructure | *Satoru Gojo Style*
 <p align="center">
-  <img src="https://www.gifcen.com/wp-content/uploads/2022/04/gojo-gif.gif" style="width:100%; max-height:250px; object-fit:cover; object-position:top; border-radius:10px;" alt="Satoru Gojo" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkpYyZx4lMrWcv6fCgMOEQlpiLiJhpvXXI8A&s" style="width:100%; max-height:200px; object-fit:cover; object-position:top; border-radius:10px;" alt="Gojo Satoru" />
 </p>
 
 > *"Dentro do meu domínio, eu controlo o fluxo da informação."*
@@ -33,7 +33,7 @@
 
 #### ⚔ Development & Automation | *9S (YoRHa) Style*
 <p align="center">
-  <img src="https://media.tenor.com/uVk7HSinFlQAAAAC/9s-nier-automata.gif" style="width:100%; max-height:250px; object-fit:cover; object-position:center; border-radius:10px;" alt="9S YoRHa" />
+  <img src="https://i.pinimg.com/originals/30/80/e5/3080e5572e9753c82e666014e4b60093.jpg" style="width:100%; max-height:200px; object-fit:cover; object-position:center; border-radius:10px;" alt="9S YoRHa" />
 </p>
 
 > *"Analisando padrões e desconstruindo protocolos."*
