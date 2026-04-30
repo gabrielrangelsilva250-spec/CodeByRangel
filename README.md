@@ -7,10 +7,8 @@
 
 #### 🧪 Offensive Security | *Futaba Sakura Style*
 <p align="center">
-  <img src="https://i.pinimg.com/736x/6f/8a/c6/6f8ac66f02f13aac9e6593e859c06805.jpg" style="width:100%; max-height:200px; object-fit:cover; object-position:center; border-radius:10px;" alt="Futaba Hacker" />
+  <img src="https://i.pinimg.com/736x/6f/8a/c6/6f8ac66f02f13aac9e6593e859c06805.jpg" style="width:100%; max-height:200px; object-fit:cover; object-position:center; border-radius:10px;" alt="Futaba" />
 </p>
-
-> *"Iniciando hackeamento... todos os dados agora são meus."*
 
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xShinn)
@@ -20,10 +18,8 @@
 
 #### 🌐 Networking & Infrastructure | *Satoru Gojo Style*
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkpYyZx4lMrWcv6fCgMOEQlpiLiJhpvXXI8A&s" style="width:100%; max-height:200px; object-fit:cover; object-position:top; border-radius:10px;" alt="Gojo Satoru" />
+  <img src="https://i.pinimg.com/originals/68/ca/f1/68caf119a7be25f3d99b5647b19bc9a3.gif" style="width:100%; max-height:200px; object-fit:cover; object-position:top; border-radius:10px;" alt="Gojo" />
 </p>
-
-> *"Dentro do meu domínio, eu controlo o fluxo da informação."*
 
 ![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -33,10 +29,8 @@
 
 #### ⚔ Development & Automation | *9S (YoRHa) Style*
 <p align="center">
-  <img src="https://i.pinimg.com/originals/30/80/e5/3080e5572e9753c82e666014e4b60093.jpg" style="width:100%; max-height:200px; object-fit:cover; object-position:center; border-radius:10px;" alt="9S YoRHa" />
+  <img src="https://media.tenor.com/uVk7HSinFlQAAAAC/9s-nier-automata.gif" style="width:100%; max-height:200px; object-fit:cover; object-position:center; border-radius:10px;" alt="9S" />
 </p>
-
-> *"Analisando padrões e desconstruindo protocolos."*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
