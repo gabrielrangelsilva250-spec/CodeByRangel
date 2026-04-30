@@ -6,7 +6,7 @@
 ### 🛠 Tech Stack & Specializations
 
 #### 🧪 Offensive Security | *Futaba Sakura Style*
-<img src="https://media.tenor.com/S_vLz98L9v0AAAAC/futaba-sakura-persona5.gif" width="100%" height="150px" style="object-fit: cover; border-radius: 10px;" />
+<img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fpersona-5-futaba-icon-gif%2F942056094471%2F&ved=0CBUQjRxqFwoTCOiewY3HlZQDFQAAAAAdAAAAABAf&opi=89978449" width="100%" height="150px" style="object-fit: cover; border-radius: 10px;" />
 
 > *"Iniciando hackeamento... todos os dados agora são meus."*
 
