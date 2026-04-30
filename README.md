@@ -35,7 +35,7 @@ Networking & Offensive Security Student | Aspiring Red Teamer
 </p>
 
 *   **Education:** Technologist in Cybersecurity (2025 - 2027).
-*   **Targeting:** `CCNA` | `CPTS` | `CEH` | `Linux Essentials`
+*   **Targeting:** `CCNA` | `CPTS` | `OSCP` | `Linux Essentials`
 *   **Focus:** Red Teaming Operations & Network Architecture
 
 ---
