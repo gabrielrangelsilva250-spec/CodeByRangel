@@ -1,6 +1,5 @@
 #0xShinn
-**Networking & Offensive Security Student | Specialized in Cisco Infrastructure & Red Teaming Operations**
-
+*Networking & Offensive Security Student | Aspiring Red Teamer 
 ---
 
 ### 🛠 Tech Stack & Specializations
@@ -30,7 +29,7 @@
 
 ---
 
-### 📊 Training & Certifications | *Elliot Alderson Style*
+### 📊 Training & Certifications | 
 <p align="center">
   <img src="https://i.gifer.com/MShf.gif" style="width:100%; max-height:200px; object-fit:cover; object-position:center; border-radius:10px;" alt="Elliot Hacker" />
 </p>
