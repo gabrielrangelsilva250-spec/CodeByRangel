@@ -1,5 +1,5 @@
-#0xShinn
-*Networking & Offensive Security Student | Aspiring Red Teamer 
+
+Networking & Offensive Security Student | Aspiring Red Teamer 
 ---
 
 ### 🛠 Tech Stack & Specializations
