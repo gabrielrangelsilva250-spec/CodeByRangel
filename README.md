@@ -1,4 +1,4 @@
-# G. Rangel Silva (0xShinn)
+
 **Cybersecurity Student | Network & Red Teaming Enthusiast**
 
 ---
